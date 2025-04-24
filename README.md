@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <b>Senior Mobile Software Engineer</b> with 10+ years of experience building high-quality Android, cross-platform, and game applications.
+  <b>Mobile Software Engineer</b>
   <br>
-  Passionate about scalable architectures, performance, and delightful user experiences.
+  Passionate about scalable architectures, performance, and  user experience.
 </p>
 
 <hr>
@@ -19,21 +19,7 @@
   <li>💼 Currently working on scalable mobile architectures using <b>Kotlin Multiplatform</b> and <b>Jetpack Compose</b>.</li>
   <li>🎮 Game dev enthusiast — Unity (C#), AR/VR basics, and game physics.</li>
   <li>🌐 Experienced in <b>API integration</b>, <b>real-time data</b>, and <b>cloud services</b> like Firebase & AWS.</li>
-  <li>📱 Passionate about building apps across fintech, health, real estate, e-commerce, and entertainment.</li>
-</ul>
-
-<hr>
-
-<h2>🧠 Technical Expertise</h2>
-
-<ul>
-  <li><b>Languages & Frameworks:</b> Java, Kotlin, KMP, React Native, JavaScript, C# (Unity)</li>
-  <li><b>Architectures:</b> MVP, MVVM, MVI, Clean Architecture, Reactive Programming</li>
-  <li><b>APIs & Backends:</b> REST, GraphQL, WebSockets, Firebase (Auth, Firestore, Realtime DB)</li>
-  <li><b>Databases:</b> Room, Realm, SQLite, Firebase DB, Firestore</li>
-  <li><b>DevOps & CI/CD:</b> Git, GitHub Actions, Fastlane, Jenkins, CircleCI</li>
-  <li><b>Monitoring & Performance:</b> Crashlytics, SonarQube, DexGuard, Firebase Perf</li>
-  <li><b>Game Dev:</b> Unity (2D/3D), Game Physics, UI, Asset Pipelines</li>
+  <li>📱 10+ years of experience building apps across fintech, health, real estate, e-commerce, and entertainment.</li>
 </ul>
 
 <hr>
@@ -45,12 +31,18 @@
 </p>
 
 <ul>
-  <li>📫 <b>Email:</b> your.email@example.com</li>
-  <li>🌐 <b>Portfolio:</b> <a href="https://andresfelipevergar.wixsite.com/brief">portfolio</a></li>
-  <li>🐦 <b>Twitter:</b> <a href="https://x.com/drummshot">@drummshot</a></li>
-  <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/andres-vergara-mobile-engineer/">linkedin.com/drummshot</a></li>
+  <li>📫 <b><a href="mailto:andresfelipevergara.gonzalez@gmail.com"> Email: </a></b> </li>
+  <li>🌐 <b> <a href="https://andresfelipevergar.wixsite.com/brief">Portfolio</a></b></li>
+  <li>🐦 <b><a href="https://x.com/drummshot">X</a></b></li>
+  <li>💼 <b> <a href="https://www.linkedin.com/in/andres-vergara-mobile-engineer/">LinkedIn</a></b></li>
 </ul>
 
 <hr>
 
+<!--img align="center" src="https://github-readme-stats.vercel.app/api?username=drummshot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=drummshot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<hr>
 <p align="center">Thanks for stopping by! 😊</p>
+
