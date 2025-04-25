@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Andres Vergara</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
 <br/>
 
 ![ChatGPT Image Apr 24, 2025 at 02_52_32 PM](https://github.com/user-attachments/assets/8878ce1f-4902-4701-870f-7b22943e776c)
